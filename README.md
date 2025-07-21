@@ -53,7 +53,8 @@ open index.html   # macOS
 ## 🖼️ Screenshots
 
 ### 🔸 Home Page
-![Home Page](screenshots/screenshot-home.png)
+![Home Page](screenshots/screenshot-home1.png)
+![Home Page](screenshots/screenshot-home2.png)
 
 ### 🔸 Products Section
 ![Products](screenshots/screenshot-products.png)
